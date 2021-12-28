@@ -1,6 +1,6 @@
 # docker_userprofile
 After download the repo, 
-1. Need to have docker isntall in your machine,
+1. Need to have docker isntalled in your machine,
 2. need to give docker-compose build command  (it will install all the fastapi libraries, uvicrorn server, postgres database and other python libraries)
 3. need to give docker-compose run web alembic revision --autogenerate -m "First migration" command, (which places so-called candidate migrations into our new migrations file.)
 4. Now lets run the migration command, docker-compose run web alembic upgrade head (The alembic upgrade command will run upgrade operations, proceeding from the current database revision)
