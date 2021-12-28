@@ -30,10 +30,10 @@ http://localhost:5050/
 you can login with user=pgadmin4@pgadmin.org and password=admin
 
 
-11. After opening postgress ui In general tab change choose a name for the connection and Connect to database server, and choose password is postgres as well.
+10. After opening postgress ui In general tab change choose a name for the connection and Connect to database server, and choose password is postgres as well.
 
-13. now you can find the tables Servers > {your-connection-name} >Databases > postgres >Schemas >public>Tables >users
+11. now you can find the tables Servers > {your-connection-name} >Databases > postgres >Schemas >public>Tables >users
 
-15. To check out fastapi is working, you can open http://localhost:8000/docs in your browser, you can see the list of api end points.
+12. To check out fastapi is working, you can open http://localhost:8000/docs in your browser, you can see the list of api end points.
 
 
