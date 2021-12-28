@@ -8,7 +8,7 @@ After downloading the repo,
 The above command  (it will install all the fastapi libraries, uvicrorn server, postgres database and other python libraries)
 It will install all the libraries listed in requirements.txt file
 
-2. Then create a file called .env in the main project folder and add the following line
+2. Then create a file called .env in the main project folder and config folder and add the following line to the .env file
 
    #DATABASE_URL = postgresql+psycopg2://postgres:postgres@db:5432
 
