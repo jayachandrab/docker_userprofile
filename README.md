@@ -24,17 +24,17 @@ The above (The alembic upgrade command will run upgrade operations, proceeding f
 
 The Above command will run the docker image it includes, uvicorn server running fast api and postgress server
 
-9. you can check postgres server by giving below  url in broser 
+8. you can check postgres server by giving below  url in broser 
 
 http://localhost:5050/
 
 you can login with user=pgadmin4@pgadmin.org and password=admin
 
 
-10. After opening postgress ui In general tab change choose a name for the connection and Connect to database server, and choose password is postgres as well.
+9. After opening postgress ui In general tab change choose a name for the connection and Connect to database server, and choose password is postgres as well.
 
-11. now you can find the tables Servers > {your-connection-name} >Databases > postgres >Schemas >public>Tables >users
+10. now you can find the tables Servers > {your-connection-name} >Databases > postgres >Schemas >public>Tables >users
 
-12. To check out fastapi is working, you can open http://localhost:8000/docs in your browser, you can see the list of api end points.
+11. To check out fastapi is working, you can open http://localhost:8000/docs in your browser, you can see the list of api end points.
 
 
