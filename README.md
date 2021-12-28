@@ -1,5 +1,5 @@
 # docker_userprofile
-After download the repo, 
+After downloading the repo, 
 1. Need to have docker isntalled in your machine,
 2. need to give 
 
