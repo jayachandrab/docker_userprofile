@@ -6,6 +6,7 @@ After download the repo,
     docker-compose build
     
 The above command  (it will install all the fastapi libraries, uvicrorn server, postgres database and other python libraries)
+It will install all the libraries listed in requirements.txt file
 
 3. Need to give 
 
