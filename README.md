@@ -35,7 +35,7 @@ http://localhost:5050/
 you can login with user=pgadmin4@pgadmin.org and password=admin
 
 
-7. After opening postgress ui In general tab change choose a name for the connection and Connect to database server, and choose password is postgres as well.
+7. After opening postgress ui In general tab choose a name for the connection and Connect to database server, and choose password as postgres.
 
 8. now you can find the tables Servers > {your-connection-name} >Databases > postgres >Schemas >public>Tables >users
 
